@@ -1,0 +1,17 @@
+.hlo{
+    color: green;
+}
+.fod{
+    background: purple;
+    color: yellow;
+    font-size: 5rem;
+    box-shadow: 0 0 4px 5px grey;
+}
+
+.err{
+    background: lightsteelblue;
+}
+.pro{
+    font-size: 59px;
+    color: yellow;
+}

@@ -1,0 +1,12 @@
+.btnContainer{
+    flex-wrap: wrap;
+    padding: 5px;
+}
+.buttons{
+    margin: 16px;
+    padding: 18px;
+    margin-top: 3px;
+    flex-wrap: wrap;
+    border: none;
+    border-radius: 5px;
+}

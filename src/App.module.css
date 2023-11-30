@@ -1,0 +1,11 @@
+.container{
+    width: 250px;
+    height: 500px;
+    transform: translateY(15px);
+    border: 2px solid grey;
+    border-radius: 7px;
+    flex-wrap: wrap;
+    margin: auto;
+    /* background: green; */
+    background-image: linear-gradient(to bottom left, greenyellow ,rgb(0, 255, 251));
+}
